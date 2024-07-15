@@ -26,7 +26,7 @@ The main goal of this project is to clean a dataset using Tableau Prep and visua
 2. Open the Tableau Prep workflow:
     - Open `data/workflow/workflow-prep.tfl` in Tableau Prep.
 3. Publish and view the dashboard on Tableau Public:
-    - Access the Tableau Public dashboard [here](https://public.tableau.com/your-link).
+    - Access the Tableau Public dashboard [here](https://public.tableau.com/views/flights_data_analysis_17210112262160/Dashboarddarkmode?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Project Requirements 📋
 To run this project, ensure you have the following tools installed:
